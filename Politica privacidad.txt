@@ -1,0 +1,27 @@
+Política de privacidad de V1psTopia
+
+En V1psTopia, nos tomamos muy en serio la privacidad de nuestros usuarios. La presente política de privacidad explica cómo recopilamos, utilizamos y protegemos su información personal. Al utilizar nuestra aplicación, acepta las disposiciones de esta política de privacidad.
+
+Recopilación de información
+
+La única información que recopilamos es su dirección de correo electrónico y su identidad de Discord si utiliza OAuth para la autenticación de usuarios. Al registrarse en nuestra aplicación, nos proporciona su dirección de correo electrónico para recibir notificaciones de nuevos posts y su identidad de Discord si utiliza OAuth. No recopilamos ninguna otra información personal.
+
+Uso de la información
+
+Utilizamos su dirección de correo electrónico únicamente para enviar notificaciones de nuevos posts publicados en nuestra aplicación. Si utiliza OAuth para autenticarse en nuestra aplicación, utilizaremos su identidad de Discord para mostrar su nombre de usuario y avatar en la aplicación. No compartimos esta información con terceros y no utilizamos su información con fines publicitarios.
+
+Acceso a la aplicación
+
+Solo los usuarios que tengan acceso al servidor de V1ps y tengan el rol de Holder podrán acceder a nuestra aplicación. Esta medida de seguridad es necesaria para garantizar que la información compartida dentro de la aplicación sea exclusiva para los usuarios con el permiso adecuado. No se permitirá el acceso a nuestra aplicación a ningún otro usuario que no cumpla con estos requisitos.
+
+Protección de la información
+
+Nos comprometemos a proteger su información personal. Hemos tomado medidas técnicas y organizativas para garantizar la seguridad de su información personal. Sin embargo, debemos señalar que ninguna medida de seguridad es completamente infalible.
+
+Modificaciones en la política de privacidad
+
+Nos reservamos el derecho de modificar esta política de privacidad en cualquier momento sin previo aviso. Le recomendamos que revise esta política de privacidad periódicamente para mantenerse informado sobre nuestras prácticas de privacidad.
+
+Preguntas
+
+Si tiene alguna pregunta sobre nuestra política de privacidad, por favor contáctenos a través del correo electrónico: cryptonotaz@outlook.com.
